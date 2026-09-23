@@ -1,0 +1,11 @@
+name = "spin-mama-casino-gr"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=spin-mama-casino.gr"
+HMAC_KEY = "0935624b3e0ddc3859b82ddf5056ea81d07992e940c19a6896220289f994bef9"
+COOKIE_NAME = "vul"
+PLAY_PATH = "begin"
+BUTTON_ID = "p796aa9808fe36a52092a06f718fd0b9d"
+GATE_SALT = "6757babf65689543"
